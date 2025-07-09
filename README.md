@@ -2,7 +2,7 @@
 
 A simple weather application built using HTML, CSS, and JavaScript that allows users to fetch and view real-time weather details for any city using the OpenWeatherMap API.
 
-🔍 ** Features**
+🔍 ** Features **
 
 🌐 Fetches real-time weather data based on city name.
 
